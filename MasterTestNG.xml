@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+  
+  <test thread-count="5" name="Test">
+  
+  <parameter name="browser" value="chrome"/>
+   <parameter name="os" value="Windows"/>
+   
+ 
+    <classes>
+     
+      <class name="testcases.TC_HomePageSlidersTest_01"/>
+      <!--<class name="testcases.TC_HomePageArrivalsTest_02"/>-->
+      <!--<class name="testcases.TC_HomePageArrivalsImageNavigationTest_03"/>-->
+      <!--<class name="testcases.TC_HomePageArrivalsImageDescription_04"/>-->
+      <!--<class name="testcases.TC_HomePageArrivalsImageReviews_05"/>-->
+      <!--<class name="testcases.TC_HomePageArrivalsImageAddToBasketWithPrice_06"/>-->
+      <!--<class name="testcases.TC_HomeArrivalCheckout_08"/>-->
+      <!--<class name="testcases.TC_HomeArrivalsCouponCode_09"/>-->
+      <!--<class name="testcases.TC_HomeArrivalsCouponLessthan450rps_10"/>-->
+       <!--<class name="testcases.TC_HomeArrivalsItemRemoval_11"/>-->
+        <!--<class name="testcases.TC_HomeArrivalAddMoreItem_12"/>-->
+        <!--<class name="testcases.TC_HomeArrivalCheckTotalPrice_13"/>-->
+        <!--<class name="testcases.TC_HomeArrivalCheckTotalAndSubtotalValues_15"/>-->
+        <!--<class name="testcases.TC_HomeArrivalCheckoutFunctionality_16"/>-->
+         <!--<class name="testcases.TC_HomeArrivalBillingDetails_17"/>-->
+            <!--<class name="testcases.TC_HomeArrivalPlaceOrder_18"/>-->
+            
+            <!--<class name="testcases.TC_ShopFilterPrice_01"/>-->
+            <!--<class name="testcases.TC_ShopProductCategories_02"/>-->
+             <!--<class name="testcases.TC_ShopDefaultSorting_03"/>-->
+              <!--<class name="testcases.TC_ShopDefaultSorting_04"/>-->
+              <!--<class name="testcases.TC_ShopDefaultSorting_05"/>-->
+              <!--<class name="testcases.TC_ShopDefaultSorting_06"/>-->
+               <!--<class name="testcases.TC_ShopDefaultSorting_07"/>-->
+                <!--<class name="testcases.TC_ShopSalesFunctionality_09"/>-->
+                <!--<class name="testcases.TC_ShopViewBasketFunctionality_10"/>-->
+                 <!--<class name="testcases.TC_ShopViewBasketViaItemLink_11"/>-->
+                 <!--<class name="testcases.TC_ShopViewBasketTaxFuctionality_12a"/>-->
+                 <!--<class name="testcases.TC_ShopViewBasketTaxFuctionality_12b"/>-->
+      
+      
+      
+      <!--<class name="testcases.TC_AccountRegistrationTest_01"/>-->
+      <!--<class name="testcases.TC_AccountRegistrationTest_02"/>-->
+      <!--<class name="testcases.TC_AccountRegistrationTest_03"/>-->
+      <!--<class name="testcases.TC_AccountRegistrationTest_04"/>-->
+      <!--<class name="testcases.TC_AccountRegistrationTest_05"/>-->
+      
+      
+       <!--<class name="testcases.TC_AccountLoginTest_01"/>-->
+        <!--<class name="testcases.TC_AccountLoginDDT"/>-->
+        <!--<class name="testcases.TC_AccountLoginTest_06"/>-->
+        <!--<class name="testcases.TC_AccountLoginTest_07"/>-->
+          <!--<class name="testcases.TC_AccountLoginTest_08"/>-->
+          
+          
+         <!--<class name="testcases.TC_MyAccountDashboard_01"/>-->
+              <!--<class name="testcases.TC_MyAccountOrders_02"/>-->
+           <!--<class name="testcases.TC_MyAccountOrders_03"/>-->
+           <!--<class name="testcases.TC_MyAccountOrders_04"/>-->
+           <!--<class name="testcases.TC_MyAccountAddress_05"/>-->
+           <!--<class name="testcases.TC_MyAccountAddress_06"/>-->
+            <!--<class name="testcases.TC_MyAccount_AccountDetails_07"/>-->
+            <!--<class name="testcases.TC_MyAccountLogout_08"/>-->
+
+      
+    </classes>
+    
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

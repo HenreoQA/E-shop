@@ -1,0 +1,53 @@
+20:34:06.456 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+20:34:06.655 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+20:34:08.611 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+20:34:08.614 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+20:34:11.035 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+20:34:12.863 [main] ERROR testcases.TC_AccountLoginTest_08 - test failure..
+20:34:12.863 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+20:34:12.864 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+20:36:02.705 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+20:36:02.714 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+20:36:04.436 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+20:36:04.437 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+20:36:06.511 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+20:36:08.410 [main] ERROR testcases.TC_AccountLoginTest_08 - test failure..
+20:36:08.410 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+20:36:08.410 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+20:42:59.515 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+20:42:59.520 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+20:43:01.526 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+20:43:01.526 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+20:43:03.646 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+20:43:06.003 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on signout button..
+20:43:06.004 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+20:43:06.005 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+20:50:47.807 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+20:50:47.813 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+20:50:50.185 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+20:50:50.185 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+20:50:52.332 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+20:50:54.083 [main] ERROR testcases.TC_AccountLoginTest_08 - test failure..
+20:50:54.083 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+20:50:54.083 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+20:52:34.505 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+20:52:34.512 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+20:52:36.271 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+20:52:36.272 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+20:52:38.103 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+20:52:39.909 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on signout button..
+20:52:39.909 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+20:52:39.909 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+21:48:40.553 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+21:48:40.566 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+21:48:42.295 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+21:48:42.296 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..
+21:48:44.466 [main] INFO  testcases.TC_AccountLoginTest_08 - clicked on login button..
+21:48:47.357 [main] INFO  testcases.TC_AccountLoginTest_08 - checking if my login heading is displayed..
+21:48:47.465 [main] INFO  testcases.TC_AccountLoginTest_08 - Login test passed...
+21:48:47.468 [main] DEBUG testcases.TC_AccountLoginTest_08 - Application debug logs ends...
+21:48:47.469 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Finished TC_AccountLoginTest_08  ****
+21:51:40.506 [main] INFO  testcases.TC_AccountLoginTest_08 - **** Starting TC_AccountLoginTest_08  *****
+21:51:40.515 [main] DEBUG testcases.TC_AccountLoginTest_08 - capturing application debug logs....
+21:51:42.408 [main] INFO  testcases.TC_AccountLoginTest_08 - Clicked on MyAccount link
+21:51:42.409 [main] INFO  testcases.TC_AccountLoginTest_08 - Entering valid username and password ..

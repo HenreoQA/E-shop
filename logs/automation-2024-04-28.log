@@ -1,0 +1,49 @@
+21:19:58.694 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Validating warning message..
+21:19:58.733 [main] ERROR testcases.TC_AccountRegistrationTest_03 - Test failed...
+21:23:08.235 [main] INFO  testcases.TC_AccountRegistrationTest_03 - **** starting TC_AccountRegistrationTest_03  *****
+21:23:08.242 [main] DEBUG testcases.TC_AccountRegistrationTest_03 - capturing application debug logs....
+21:23:11.479 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Clicked on My Account link
+21:23:11.480 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Entering Account Registration details.. 
+21:23:13.613 [main] INFO  testcases.TC_AccountRegistrationTest_03 - clicked on register button..
+21:23:13.614 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Validating warning message..
+21:23:13.614 [main] ERROR testcases.TC_AccountRegistrationTest_03 - Test failed...
+21:55:21.531 [main] INFO  testcases.TC_AccountRegistrationTest_01 - **** starting TC_AccountRegistrationTest_01  *****
+21:55:21.540 [main] DEBUG testcases.TC_AccountRegistrationTest_01 - capturing application debug logs....
+21:55:23.265 [main] INFO  testcases.TC_AccountRegistrationTest_01 - Clicked on My Account link
+21:55:23.266 [main] INFO  testcases.TC_AccountRegistrationTest_01 - Entering Account Registration details.. 
+21:55:24.936 [main] INFO  testcases.TC_AccountRegistrationTest_01 - clicked on register button..
+21:55:24.936 [main] DEBUG testcases.TC_AccountRegistrationTest_01 - Application debug logs ends...
+21:55:24.937 [main] INFO  testcases.TC_AccountRegistrationTest_01 - **** finished TC_AccountRegistrationTest_01  *****
+22:13:01.781 [main] INFO  testcases.TC_AccountRegistrationTest_03 - **** starting TC_AccountRegistrationTest_03  *****
+22:13:01.787 [main] DEBUG testcases.TC_AccountRegistrationTest_03 - capturing application debug logs....
+22:13:03.616 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Clicked on My Account link
+22:13:03.616 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Entering Account Registration details.. 
+22:13:05.437 [main] INFO  testcases.TC_AccountRegistrationTest_03 - clicked on register button..
+22:13:05.438 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Validating warning message..
+22:13:05.438 [main] ERROR testcases.TC_AccountRegistrationTest_03 - Test failed...
+22:19:06.806 [main] INFO  testcases.TC_AccountRegistrationTest_04 - **** starting TC_AccountRegistrationTest_03  *****
+22:19:06.811 [main] DEBUG testcases.TC_AccountRegistrationTest_04 - capturing application debug logs....
+22:19:08.481 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Clicked on My Account link
+22:19:08.482 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Entering Account Registration details.. 
+22:19:10.192 [main] INFO  testcases.TC_AccountRegistrationTest_04 - clicked on register button..
+22:19:10.192 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Validating warning message..
+22:19:10.193 [main] ERROR testcases.TC_AccountRegistrationTest_04 - Test failed...
+22:33:16.309 [main] INFO  testcases.TC_AccountRegistrationTest_04 - **** starting TC_AccountRegistrationTest_04  *****
+22:33:16.318 [main] DEBUG testcases.TC_AccountRegistrationTest_04 - capturing application debug logs....
+22:33:18.835 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Clicked on My Account link
+22:33:18.836 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Entering Account Registration details.. 
+22:33:21.274 [main] INFO  testcases.TC_AccountRegistrationTest_04 - clicked on register button..
+22:33:21.274 [main] DEBUG testcases.TC_AccountRegistrationTest_04 - Application debug logs ends...
+22:33:21.275 [main] INFO  testcases.TC_AccountRegistrationTest_04 - **** finished TC_AccountRegistrationTest_04  *****
+22:38:45.678 [main] INFO  testcases.TC_AccountRegistrationTest_03 - **** starting TC_AccountRegistrationTest_03  *****
+22:38:45.688 [main] DEBUG testcases.TC_AccountRegistrationTest_03 - capturing application debug logs....
+22:38:48.494 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Clicked on My Account link
+22:38:48.495 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Entering Account Registration details.. 
+22:38:50.167 [main] INFO  testcases.TC_AccountRegistrationTest_03 - clicked on register button..
+22:38:50.168 [main] INFO  testcases.TC_AccountRegistrationTest_03 - Validating warning message..
+22:38:50.169 [main] ERROR testcases.TC_AccountRegistrationTest_03 - Test failed...
+22:41:15.563 [main] INFO  testcases.TC_AccountRegistrationTest_04 - **** starting TC_AccountRegistrationTest_04  *****
+22:41:15.570 [main] DEBUG testcases.TC_AccountRegistrationTest_04 - capturing application debug logs....
+22:41:17.828 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Clicked on My Account link
+22:41:17.830 [main] INFO  testcases.TC_AccountRegistrationTest_04 - Entering Account Registration details.. 
+22:41:19.775 [main] INFO  testcases.TC_AccountRegistrationTest_04 - clicked on register button..

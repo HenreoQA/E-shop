@@ -1,0 +1,52 @@
+22:29:43.783 [main] INFO  testcases.TC_MyAccountDashboard_01 - Clicked on my account menu
+22:29:43.797 [main] INFO  testcases.TC_MyAccountDashboard_01 - Entering registered username and password ..
+22:29:45.691 [main] INFO  testcases.TC_MyAccountDashboard_01 - clicked on login button..
+22:29:45.691 [main] INFO  testcases.TC_MyAccountDashboard_01 - Checking if login is successful..
+22:29:45.789 [main] INFO  testcases.TC_MyAccountDashboard_01 - Login is successful
+22:29:45.792 [main] INFO  testcases.TC_MyAccountDashboard_01 - Clicking on my account link and checking if dashboard is displayed..
+22:29:46.958 [main] INFO  testcases.TC_MyAccountDashboard_01 - user can view dashboard
+22:29:46.958 [main] DEBUG testcases.TC_MyAccountDashboard_01 - Application debug logs ends...
+22:29:46.958 [main] INFO  testcases.TC_MyAccountDashboard_01 - **** Finished TC_MyAccountDashboard_01  ****
+22:30:01.156 [main] INFO  testcases.TC_MyAccountOrders_02 - **** Starting TC_MyAccountOrders_02  *****
+22:30:01.156 [main] DEBUG testcases.TC_MyAccountOrders_02 - capturing application debug logs....
+22:30:03.351 [main] INFO  testcases.TC_MyAccountOrders_02 - Clicked on my account menu
+22:30:03.352 [main] INFO  testcases.TC_MyAccountOrders_02 - Entering registered username and password ..
+22:30:05.556 [main] INFO  testcases.TC_MyAccountOrders_02 - clicked on login button..
+22:30:05.557 [main] INFO  testcases.TC_MyAccountOrders_02 - Checking if login is successful..
+22:30:05.624 [main] INFO  testcases.TC_MyAccountOrders_02 - Login is successful
+22:30:05.624 [main] INFO  testcases.TC_MyAccountOrders_02 - Clicking on my account link and orders link..
+22:30:08.011 [main] INFO  testcases.TC_MyAccountOrders_02 - Validating that user can view their orders...
+22:30:08.085 [main] INFO  testcases.TC_MyAccountOrders_02 - user can view their orders...
+22:30:08.085 [main] DEBUG testcases.TC_MyAccountOrders_02 - Application debug logs ends...
+22:30:08.085 [main] INFO  testcases.TC_MyAccountOrders_02 - **** Finished TC_MyAccountOrders_02  ****
+22:30:27.698 [main] INFO  testcases.TC_MyAccountOrders_03 - **** Starting TC_MyAccountOrders_03  *****
+22:30:27.700 [main] DEBUG testcases.TC_MyAccountOrders_03 - capturing application debug logs....
+22:30:29.636 [main] INFO  testcases.TC_MyAccountOrders_03 - Clicked on my account menu
+22:30:29.637 [main] INFO  testcases.TC_MyAccountOrders_03 - Entering registered username and password ..
+22:30:31.951 [main] INFO  testcases.TC_MyAccountOrders_03 - clicked on login button..
+22:30:31.952 [main] INFO  testcases.TC_MyAccountOrders_03 - Checking if login is successful..
+22:30:32.002 [main] INFO  testcases.TC_MyAccountOrders_03 - Login is successful
+22:30:32.003 [main] INFO  testcases.TC_MyAccountOrders_03 - Clicking on my account link and orders link..
+22:30:34.900 [main] INFO  testcases.TC_MyAccountOrders_03 - Clicking on view...
+22:30:36.338 [main] INFO  testcases.TC_MyAccountOrders_03 - Validating that user can view their order, customer and billing details...
+22:30:36.428 [main] INFO  testcases.TC_MyAccountOrders_03 - user can view order details
+22:30:36.428 [main] DEBUG testcases.TC_MyAccountOrders_03 - Application debug logs ends...
+22:30:36.429 [main] INFO  testcases.TC_MyAccountOrders_03 - **** Finished TC_MyAccountOrders_03  ****
+23:16:12.851 [main] INFO  testcases.TC_MyAccountOrders_04 - **** Starting TC_MyAccountOrders_04  *****
+23:16:12.859 [main] DEBUG testcases.TC_MyAccountOrders_04 - capturing application debug logs....
+23:16:14.876 [main] INFO  testcases.TC_MyAccountOrders_04 - Clicked on my account menu
+23:16:14.876 [main] INFO  testcases.TC_MyAccountOrders_04 - Entering registered username and password ..
+23:16:16.840 [main] INFO  testcases.TC_MyAccountOrders_04 - clicked on login button..
+23:16:16.840 [main] INFO  testcases.TC_MyAccountOrders_04 - Checking if login is successful..
+23:16:16.936 [main] INFO  testcases.TC_MyAccountOrders_04 - Login is successful
+23:16:16.939 [main] INFO  testcases.TC_MyAccountOrders_04 - Clicking on my account link and orders link..
+23:16:19.376 [main] INFO  testcases.TC_MyAccountOrders_04 - Clicking on view button...
+23:16:20.952 [main] INFO  testcases.TC_MyAccountOrders_04 - Validating that user can view order number, ordered date and status of the order...
+23:16:21.069 [main] INFO  testcases.TC_MyAccountOrders_04 - Test passed...
+23:16:21.069 [main] DEBUG testcases.TC_MyAccountOrders_04 - Application debug logs ends...
+23:16:21.069 [main] INFO  testcases.TC_MyAccountOrders_04 - **** Finished TC_MyAccountOrders_04  ****
+23:40:08.422 [main] INFO  testcases.TC_MyAccountAddress_05 - **** Starting TC_MyAccountAddress_05  *****
+23:40:08.430 [main] DEBUG testcases.TC_MyAccountAddress_05 - capturing application debug logs....
+23:40:10.254 [main] INFO  testcases.TC_MyAccountAddress_05 - Clicked on my account menu
+23:40:10.254 [main] INFO  testcases.TC_MyAccountAddress_05 - Entering registered username and password ..
+23:40:12.137 [main] INFO  testcases.TC_MyAccountAddress_05 - clicked on login button..
